@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WavePlot", "WavePlot\WavePlot.csproj", "{C683A819-013A-4D81-BF6B-F91BE53AEC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C683A819-013A-4D81-BF6B-F91BE53AEC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C683A819-013A-4D81-BF6B-F91BE53AEC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C683A819-013A-4D81-BF6B-F91BE53AEC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C683A819-013A-4D81-BF6B-F91BE53AEC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB788780-BE67-4DBC-8DF0-FF9DED4365D1}
+	EndGlobalSection
+EndGlobal
